@@ -12,7 +12,7 @@ class Solution {
       final digit = tmp % 10;
       //Add that digit to already stored rev.
       rev = rev * 10 + digit;
-      //And get remiander.
+      //And get after remiander.
       tmp = tmp ~/ 10;
     }
 
