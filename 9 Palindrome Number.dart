@@ -20,3 +20,8 @@ class Solution {
     return rev == x;
   }
 }
+
+void main() {
+  Solution sol = Solution();
+  print(sol.isPalindrome(547));
+}

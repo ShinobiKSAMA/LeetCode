@@ -19,3 +19,8 @@ class Solution {
     return count;
   }
 }
+
+void main() {
+  Solution sol = Solution();
+  print(sol.removeElement([1, 6, 7, 7, 9, 45], 7));
+}

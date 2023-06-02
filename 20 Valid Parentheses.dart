@@ -29,5 +29,7 @@ class Solution {
   }
 }
 
-
-////Algorithm////
+void main() {
+  Solution sol = Solution();
+  print(sol.isValid("((]))"));
+}

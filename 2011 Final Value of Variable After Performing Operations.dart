@@ -13,3 +13,8 @@ class Solution {
     return finalValue;
   }
 }
+
+void main() {
+  Solution sol = Solution();
+  print(sol.finalValueAfterOperations(["X++", "++X", "X--"]));
+}
