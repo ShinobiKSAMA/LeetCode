@@ -1,9 +1,9 @@
 class Solution {
   bool isPalindrome(int x) {
-    //Integer variable to create revrse of the number.
+    //Integer variable to create reverse of the number.
     int rev = 0;
 
-    //Temp varible to calculate reverse.
+    //Temp variable to calculate reverse.
     int tmp = x;
 
     //Until tmp becomes 0, keep destroying the tmp.
@@ -12,7 +12,7 @@ class Solution {
       final digit = tmp % 10;
       //Add that digit to already stored rev.
       rev = rev * 10 + digit;
-      //And get after remiander.
+      //And get after remainder.
       tmp = tmp ~/ 10;
     }
 

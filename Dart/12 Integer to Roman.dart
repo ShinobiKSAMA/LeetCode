@@ -45,7 +45,7 @@ class Solution {
       "IX"
     ];
 
-    //Concatination of all numbers' roman correspondant
+    //Concatenation of all numbers' roman correspondent
     return thousands[num ~/ 1000] + //get 1000th place
         hundreds[num % 1000 ~/ 100] + //get 100th place
         tens[num % 100 ~/ 10] + //get 10th place

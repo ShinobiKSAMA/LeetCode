@@ -19,7 +19,7 @@ class Solution {
           return false;
         }
       } else {
-        //Since curreny element is opener add it to checkerList.
+        //Since current element is opener add it to checkerList.
         checker.add(e);
       }
     }

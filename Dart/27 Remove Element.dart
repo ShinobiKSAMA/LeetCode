@@ -10,7 +10,7 @@ class Solution {
     nums.forEach((e) {
       //Check if current element is not value.
       if (e != val) {
-        //If it is not value, increment the counting varible and add element at count index.
+        //If it is not value, increment the counting variable and add element at count index.
         nums[count++] = e;
       }
     });
