@@ -6,6 +6,8 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | ----- | ---------- |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Dart](Dart/1%20Two%20Sum.dart), [C#](CSharp/1%20Two%20Sum.cs) |Easy|
+|8|[String to integer](https://leetcode.com/problems/string-to-integer-atoi/) | [Dart](Dart/8%20String%20to%20Integer%20(atoi).dart), [C#](CSharp/8%20String%20to%20Integer%20(atoi).cs) |Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Dart](Dart/9%20Palindrome%20Number.dart), [C#](CSharp/9%20Palindrome%20Number.cs) |Easy|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Dart](Dart/12%20Integer%20to%20Roman.dart), [C#](CSharp/12%20Integer%20to%20Roman.cs) |Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Dart](Dart/13%20Roman%20to%20Integer.dart), [C#](CSharp/13%20Roman%20to%20Integer.cs) |Easy|
